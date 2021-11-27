@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.c12a759e.chunk.css",
+    "main.js": "/restaurant/static/js/main.05858f96.chunk.js",
+    "main.js.map": "/restaurant/static/js/main.05858f96.chunk.js.map",
+    "runtime-main.js": "/restaurant/static/js/runtime-main.2482ce50.js",
+    "runtime-main.js.map": "/restaurant/static/js/runtime-main.2482ce50.js.map",
+    "static/css/2.5d80639a.chunk.css": "/restaurant/static/css/2.5d80639a.chunk.css",
+    "static/js/2.044f29f1.chunk.js": "/restaurant/static/js/2.044f29f1.chunk.js",
+    "static/js/2.044f29f1.chunk.js.map": "/restaurant/static/js/2.044f29f1.chunk.js.map",
+    "static/js/3.37f55579.chunk.js": "/restaurant/static/js/3.37f55579.chunk.js",
+    "static/js/3.37f55579.chunk.js.map": "/restaurant/static/js/3.37f55579.chunk.js.map",
+    "index.html": "/restaurant/index.html",
+    "static/css/2.5d80639a.chunk.css.map": "/restaurant/static/css/2.5d80639a.chunk.css.map",
+    "static/css/main.c12a759e.chunk.css.map": "/restaurant/static/css/main.c12a759e.chunk.css.map",
+    "static/js/2.044f29f1.chunk.js.LICENSE.txt": "/restaurant/static/js/2.044f29f1.chunk.js.LICENSE.txt",
+    "static/media/Info.scss": "/restaurant/static/media/coffee-background.582d1944.webp",
+    "static/media/slick-theme.css": "/restaurant/static/media/slick.c94f7671.ttf",
+    "static/media/Testimony.scss": "/restaurant/static/media/slide-3.a4095b3a.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2482ce50.js",
+    "static/css/2.5d80639a.chunk.css",
+    "static/js/2.044f29f1.chunk.js",
+    "static/css/main.c12a759e.chunk.css",
+    "static/js/main.05858f96.chunk.js"
+  ]
+}
